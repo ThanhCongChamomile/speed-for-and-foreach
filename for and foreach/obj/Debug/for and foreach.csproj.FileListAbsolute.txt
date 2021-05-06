@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\for and foreach\for and foreach\bin\Debug\for and foreach.exe.config
+C:\Users\Dell\source\repos\for and foreach\for and foreach\bin\Debug\for and foreach.exe
+C:\Users\Dell\source\repos\for and foreach\for and foreach\bin\Debug\for and foreach.pdb
+C:\Users\Dell\source\repos\for and foreach\for and foreach\obj\Debug\for and foreach.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\for and foreach\for and foreach\obj\Debug\for and foreach.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\for and foreach\for and foreach\obj\Debug\for and foreach.exe
+C:\Users\Dell\source\repos\for and foreach\for and foreach\obj\Debug\for and foreach.pdb
+D:\for and foreach\for and foreach\bin\Debug\for and foreach.exe.config
+D:\for and foreach\for and foreach\bin\Debug\for and foreach.exe
+D:\for and foreach\for and foreach\bin\Debug\for and foreach.pdb
+D:\for and foreach\for and foreach\obj\Debug\for and foreach.csprojAssemblyReference.cache
+D:\for and foreach\for and foreach\obj\Debug\for and foreach.csproj.CoreCompileInputs.cache
+D:\for and foreach\for and foreach\obj\Debug\for and foreach.exe
+D:\for and foreach\for and foreach\obj\Debug\for and foreach.pdb
